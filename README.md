@@ -10,3 +10,5 @@ Looks like this:
 [FILE] PyPyVars.bat
 ...
 ```
+Screenshot:<br>
+![Visual](https://github.com/SlowsieNT/PyPyCL/blob/main/visual.png?raw=true)
